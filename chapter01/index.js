@@ -32,3 +32,8 @@ function divide(pb, jay) {
 }
 divide(6, 3)
 console.log('6 / 3 = ' + divide(6,3))
+
+// Values prediction
+console.log(4 + 5) //adds 4+5=9
+console.log("4 + 5") //just a string that is displayed as 4 + 5
+console.log("4" + "5") //multiplies 4*5 and returns 45 on terminal
