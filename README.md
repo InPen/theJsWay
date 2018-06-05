@@ -34,41 +34,41 @@ Thanks in advance for your support!
 ## Table of contents
 
 * Introduction
-  * [About this book]
-  * [Welcome to programming]
-  * [Introducing JavaScript]
-  * [Environment setup]
+  * About this book
+  * Welcome to programming
+  * Introducing JavaScript
+  * Environment setup
 * Part I: Learn to code programs
-  * [3, 2, 1... Code!]
-  * [Play with variables]
-  * [Add conditions]
-  * [Repeat statements]
-  * [Write functions]
-  * [Create your first objects]
-  * [Store data in arrays]
-  * [Work with strings]
-  * [Understand object-oriented programming]
-  * [Discover functional programming]
-  * [Project: a social news program]
+  * 3, 2, 1... Code!
+  * Play with variables
+  * Add conditions
+  * Repeat statements
+  * [Write functions
+  * Create your first objects
+  * Store data in arrays
+  * Work with strings
+  * Understand object-oriented programming
+  * Discover functional programming
+  * Project: a social news program
 * Part II: Create interactive web pages
-  * [What's a web page?]
-  * [Discover the DOM]
-  * [Traverse the DOM]
-  * [Modify page structure]
-  * [React to events]
-  * [Manipulate forms]
-  * [Animate elements]
-  * [Project: a social news web page]
+  * What's a web page?
+  * Discover the DOM
+  * Traverse the DOM
+  * Modify page structure
+  * React to events
+  * Manipulate forms
+  * Animate elements
+  * Project: a social news web page
 * Part III: Build web applications
-  * [Web development 101]
-  * [Query a web server]
-  * [Use web APIs]
-  * [Send data to a web server]
-  * [Discover Node.js]
-  * [Create a web server]
-  * [Project: a social news web app]
+  * Web development 101
+  * Query a web server
+  * Use web APIs
+  * Send data to aweb server
+  * Discover Node.js
+  * Create a web server
+  * Project: a social news web app
 * Conclusion
-  * [Summary and perspective
-  * [Acknowledgement
+  * Summary and perspective
+  * Acknowledgement
 * Appendices
-  * [Style guide](
+  * Style guide
